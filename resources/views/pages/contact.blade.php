@@ -1,7 +1,7 @@
 @extends('layouts.default')
 
 @section('content')
-    <div class="card">
+    <div class="card mt-3 pl-2 pr-2" >
         <div class="card-title"><h1>Contact</h1>
             <p class="lead">Please use this form to contact the site owner.<br> It should save your info</p></div>
         <div class="card-body">
