@@ -5,7 +5,7 @@
 
 <body>
 
-<div class="contianer">
+<div class="container">
 <header>
     @include('includes.menu')
 </header>
