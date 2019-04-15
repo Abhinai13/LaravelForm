@@ -4,7 +4,7 @@
 
 
 
-    <h1>THANK YOU</h1>
-    <p class="lead">This is a page dedicated to thanking users who submit their info<br> Second line for content.</p>
+    <h1>THANK YOU {{$name}}</h1>
+    <p class="lead">This is a page dedicated to thanking users who submit their info<br> Thanks again!</p>
 
 @endsection
